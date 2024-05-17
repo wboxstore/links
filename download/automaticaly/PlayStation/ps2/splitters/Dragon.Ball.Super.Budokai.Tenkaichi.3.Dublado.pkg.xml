@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Dragon.Ball.Super.Budokai.Tenkaichi.3.Dublado.pkg</file_name>
+<file_size>4449887936</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Dragon.Ball.Super.Budokai.Tenkaichi.3.Dublado_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Dragon.Ball.Super.Budokai.Tenkaichi.3.Dublado_01.pkg"/>
+<pieces file_size="449887936"  index="2" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Dragon.Ball.Super.Budokai.Tenkaichi.3.Dublado_02.pkg"/>
+</hfs_manifest>
