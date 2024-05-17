@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Sengoku.Basara.2.Heroes.pkg</file_name>
+<file_size>4708409264</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Sengoku.Basara.2.Heroes_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Sengoku.Basara.2.Heroes_01.pkg"/>
+<pieces file_size="708409264"  index="2" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Sengoku.Basara.2.Heroes_02.pkg"/>
+</hfs_manifest>
