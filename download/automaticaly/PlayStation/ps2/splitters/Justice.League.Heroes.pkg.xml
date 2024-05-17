@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Justice.League.Heroes.pkg</file_name>
+<file_size>2927360048</file_size>
+<number_of_split_files>2</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Justice.League.Heroes_00.pkg"/>
+<pieces file_size="927360048" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Justice.League.Heroes_01.pkg"/>
+</hfs_manifest>

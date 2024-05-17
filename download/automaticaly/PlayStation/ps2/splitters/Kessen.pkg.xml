@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Kessen_02.pkg</file_name>
+<file_size>4554940848</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Kessen_02_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Kessen_02_01.pkg"/>
+<pieces file_size="554940848"  index="2" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Kessen_02_02.pkg"/>
+</hfs_manifest>

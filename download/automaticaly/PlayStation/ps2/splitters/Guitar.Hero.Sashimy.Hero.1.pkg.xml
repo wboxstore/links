@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Guitar.Hero.Sashimy.Hero.1.pkg</file_name>
+<file_size>3113901056</file_size>
+<number_of_split_files>2</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Guitar.Hero.Sashimy.Hero.1_00.pkg"/>
+<pieces file_size="1113901056" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Guitar.Hero.Sashimy.Hero.1_01.pkg"/>
+</hfs_manifest>

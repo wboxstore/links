@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Hack.-.G.U.Vol.3.-.Redemption.pkg</file_name>
+<file_size>4364180592</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Hack.-.G.U.Vol.3.-.Redemption_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Hack.-.G.U.Vol.3.-.Redemption_01.pkg"/>
+<pieces file_size="364180592"  index="2" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Hack.-.G.U.Vol.3.-.Redemption_02.pkg"/>
+</hfs_manifest>
