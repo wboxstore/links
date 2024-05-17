@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Twisted.Metal.-.Head.On.-.Extra.Twisted.Edition.pkg</file_name>
+<file_size>4225498224</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Twisted.Metal.-.Head.On.-.Extra.Twisted.Edition_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Twisted.Metal.-.Head.On.-.Extra.Twisted.Edition_01.pkg"/>
+<pieces file_size="225498224"  index="2" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Twisted.Metal.-.Head.On.-.Extra.Twisted.Edition_02.pkg"/>
+</hfs_manifest>
