@@ -1,9 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<hfs_manifest>
-<file_name>The.Suffering.-.Ties.That.Bind.pkg</file_name>
-<file_size>4026624176</file_size>
-<number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/The.Suffering.-.Ties.That.Bind_00.pkg"/>
-<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/The.Suffering.-.Ties.That.Bind_01.pkg"/>
-<pieces file_size="26624176"   index="2" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/The.Suffering.-.Ties.That.Bind_02.pkg"/>
-</hfs_manifest>
