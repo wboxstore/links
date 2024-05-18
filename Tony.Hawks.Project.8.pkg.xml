@@ -1,8 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<hfs_manifest>
-<file_name>Tony.Hawks.Project.8.pkg</file_name>
-<file_size>3978613776</file_size>
-<number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Tony.Hawks.Project.8_00.pkg"/>
-<pieces file_size="1978613776" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/ps2/auto_download/Tony.Hawks.Project.8_01.pkg"/>
-</hfs_manifest>
