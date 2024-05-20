@@ -1,0 +1,11 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hfs_manifest>
+<file_name>Emulador_FINAL_BURN_NEO_RETRO_LOADER.pkg</file_name>
+<file_size>8296929776</file_size>
+<number_of_split_files>5</number_of_split_files>
+<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/Emulador_FINAL_BURN_NEO_RETRO_LOADER_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/Emulador_FINAL_BURN_NEO_RETRO_LOADER_01.pkg"/>
+<pieces file_size="2000000000" index="2" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/Emulador_FINAL_BURN_NEO_RETRO_LOADER_02.pkg"/>
+<pieces file_size="2000000000" index="3" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/Emulador_FINAL_BURN_NEO_RETRO_LOADER_03.pkg"/>
+<pieces file_size="296929776"  index="4" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/Emulador_FINAL_BURN_NEO_RETRO_LOADER_04.pkg"/>
+</hfs_manifest>
