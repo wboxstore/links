@@ -1,10 +1,11 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <hfs_manifest>
 <file_name>FBANEXTNNES90000.pkg</file_name>
-<file_size>6505788416</file_size>
-<number_of_split_files>4</number_of_split_files>
+<file_size>8505789344</file_size>
+<number_of_split_files>5</number_of_split_files>
 <pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/FBANEXTNNES90000_00.pkg"/>
 <pieces file_size="2000000000" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/FBANEXTNNES90000_01.pkg"/>
 <pieces file_size="2000000000" index="2" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/FBANEXTNNES90000_02.pkg"/>
-<pieces file_size="505788416"  index="3" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/FBANEXTNNES90000_03.pkg"/>
+<pieces file_size="2000000000" index="3" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/FBANEXTNNES90000_03.pkg"/>
+<pieces file_size="505789344"  index="4" url="http://content-ps3.sandrostoreps3.workers.dev/auto_download/FBANEXTNNES90000_04.pkg"/>
 </hfs_manifest>
