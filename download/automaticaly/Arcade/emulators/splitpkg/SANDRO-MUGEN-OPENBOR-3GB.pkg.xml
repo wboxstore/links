@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>SANDRO-MUGEN-OPENBOR-3GB.pkg</file_name>
 <file_size>3065576096</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://content-ps3.sandrostoreps3.workers.dev/xmb/download/emulators/SANDRO-MUGEN-OPENBOR-3GB_00.pkg"/>
-<pieces file_size="1065576096" index="1" url="http://content-ps3.sandrostoreps3.workers.dev/xmb/download/emulators/SANDRO-MUGEN-OPENBOR-3GB_01.pkg"/>
+<pieces file_size="2000000000" index="0" url="http://premium-users.sandrostoreps3.workers.dev/xmb/download/emulators/SANDRO-MUGEN-OPENBOR-3GB_00.pkg"/>
+<pieces file_size="1065576096" index="1" url="http://premium-users.sandrostoreps3.workers.dev/xmb/download/emulators/SANDRO-MUGEN-OPENBOR-3GB_01.pkg"/>
 </hfs_manifest>
