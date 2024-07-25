@@ -1,17 +1,17 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
 <hfs_manifest>
 <file_name>EAFC.24.BLES02258.pkg</file_name>
 <file_size>20910537440</file_size>
 <number_of_split_files>11</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_00.pkg"/>
-<pieces file_size="2000000000" index="1"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_01.pkg"/>
-<pieces file_size="2000000000" index="2"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_02.pkg"/>
-<pieces file_size="2000000000" index="3"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_03.pkg"/>
-<pieces file_size="2000000000" index="4"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_04.pkg"/>
-<pieces file_size="2000000000" index="5"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_05.pkg"/>
-<pieces file_size="2000000000" index="6"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_06.pkg"/>
-<pieces file_size="2000000000" index="7"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_07.pkg"/>
-<pieces file_size="2000000000" index="8"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_08.pkg"/>
-<pieces file_size="2000000000" index="9"  url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_09.pkg"/>
-<pieces file_size="910537440"  index="10" url="http://content-ps3.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_10.pkg"/>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_00.pkg"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_01.pkg"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_02.pkg"/>
+<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_03.pkg"/>
+<pieces file_size="2000000000" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_04.pkg"/>
+<pieces file_size="2000000000" index="5"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_05.pkg"/>
+<pieces file_size="2000000000" index="6"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_06.pkg"/>
+<pieces file_size="2000000000" index="7"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_07.pkg"/>
+<pieces file_size="2000000000" index="8"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_08.pkg"/>
+<pieces file_size="2000000000" index="9"  url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_09.pkg"/>
+<pieces file_size="910537440"  index="10" url="http://premium-users.sandrostoreps3.workers.dev/football/fc.2024/EAFC.24.BLES02258_10.pkg"/>
 </hfs_manifest>
