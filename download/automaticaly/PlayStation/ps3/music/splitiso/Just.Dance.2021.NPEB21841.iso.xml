@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Just.Dance.2021.NPEB21841.iso</file_name>
+<file_size>4932612096</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2021/Just.Dance.2021.NPEB21841_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2021/Just.Dance.2021.NPEB21841_01.iso"/>
+<pieces file_size="932612096"  index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2021/Just.Dance.2021.NPEB21841_02.iso"/>
+</hfs_manifest>
