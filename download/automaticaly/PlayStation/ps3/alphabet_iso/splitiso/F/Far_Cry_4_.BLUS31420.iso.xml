@@ -1,0 +1,12 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Far_Cry_4_.BLUS31420.iso</file_name>
+<file_size>10056226816</file_size>
+<number_of_split_files>6</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/FarCry_4/Far_Cry_4_.BLUS31420_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/FarCry_4/Far_Cry_4_.BLUS31420_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/FarCry_4/Far_Cry_4_.BLUS31420_02.iso"/>
+<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/FarCry_4/Far_Cry_4_.BLUS31420_03.iso"/>
+<pieces file_size="2000000000" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/FarCry_4/Far_Cry_4_.BLUS31420_04.iso"/>
+<pieces file_size="56226816"   index="5"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/FarCry_4/Far_Cry_4_.BLUS31420_05.iso"/>
+</hfs_manifest>
