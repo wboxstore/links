@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Guitar.Hero.Smash.Hits.BLUS30290.iso</file_name>
+<file_size>4095225856</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Smash_Hits/Guitar.Hero.Smash.Hits.BLUS30290_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Smash_Hits/Guitar.Hero.Smash.Hits.BLUS30290_01.iso"/>
+<pieces file_size="95225856"   index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Smash_Hits/Guitar.Hero.Smash.Hits.BLUS30290_02.iso"/>
+</hfs_manifest>
