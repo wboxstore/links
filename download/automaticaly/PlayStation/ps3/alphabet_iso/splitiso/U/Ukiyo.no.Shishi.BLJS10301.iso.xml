@@ -1,9 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below. 
-<hfs_manifest>
-<file_name>Ukiyo.no.Shishi.BLJS10301.iso</file_name>
-<file_size>5003829248</file_size>
-<number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/UV/Ukiyo_no_Shishi/Ukiyo.no.Shishi.BLJS10301_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/UV/Ukiyo_no_Shishi/Ukiyo.no.Shishi.BLJS10301_01.iso"/>
-<pieces file_size="1003829248" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/UV/Ukiyo_no_Shishi/Ukiyo.no.Shishi.BLJS10301_02.iso"/>
-</hfs_manifest>

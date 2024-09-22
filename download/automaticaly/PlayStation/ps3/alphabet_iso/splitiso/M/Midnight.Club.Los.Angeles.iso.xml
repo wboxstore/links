@@ -1,9 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below. 
-<hfs_manifest>
-<file_name>Midnight.Club.Los.Angeles.iso</file_name>
-<file_size>5669519360</file_size>
-<number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Midnight_Club_Los_Angeles/Midnight.Club.Los.Angeles_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Midnight_Club_Los_Angeles/Midnight.Club.Los.Angeles_01.iso"/>
-<pieces file_size="1669519360" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Midnight_Club_Los_Angeles/Midnight.Club.Los.Angeles_02.iso"/>
-</hfs_manifest>

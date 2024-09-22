@@ -1,8 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below. 
-<hfs_manifest>
-<file_name>UP0002-BLUS31181_00-DESTINY-DATAPACK.pkg</file_name>
-<file_size>3569134048</file_size>
-<number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/Destiny/UP0002-BLUS31181_00-DESTINY-DATAPACK_00.pkg"/>
-<pieces file_size="1569134048" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/01/Destiny/UP0002-BLUS31181_00-DESTINY-DATAPACK_01.pkg"/>
-</hfs_manifest>

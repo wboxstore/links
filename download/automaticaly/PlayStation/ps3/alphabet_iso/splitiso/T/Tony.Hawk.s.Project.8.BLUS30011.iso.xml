@@ -1,9 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below. 
-<hfs_manifest>
-<file_name>Tony.Hawk.s.Project.8.BLUS30011.iso</file_name>
-<file_size>5478531072</file_size>
-<number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tony_Hawk_s_Project_8/Tony.Hawk.s.Project.8.BLUS30011_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tony_Hawk_s_Project_8/Tony.Hawk.s.Project.8.BLUS30011_01.iso"/>
-<pieces file_size="1478531072" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tony_Hawk_s_Project_8/Tony.Hawk.s.Project.8.BLUS30011_02.iso"/>
-</hfs_manifest>

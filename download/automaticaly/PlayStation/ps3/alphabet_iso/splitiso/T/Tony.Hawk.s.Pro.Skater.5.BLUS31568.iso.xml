@@ -1,8 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below. 
-<hfs_manifest>
-<file_name>Tony.Hawk.s.Pro.Skater.5.BLUS31568.iso</file_name>
-<file_size>2395879424</file_size>
-<number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tony_Hawk_s_Pro_Skater_5/Tony.Hawk.s.Pro.Skater.5.BLUS31568_00.iso"/>
-<pieces file_size="395879424"  index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tony_Hawk_s_Pro_Skater_5/Tony.Hawk.s.Pro.Skater.5.BLUS31568_01.iso"/>
-</hfs_manifest>

@@ -1,9 +1,0 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below. 
-<hfs_manifest>
-<file_name>F.E.A.R.2.Project.Origin.BLUS30251.iso</file_name>
-<file_size>4347963392</file_size>
-<number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/EF/F.E.A.R_2/F.E.A.R.2.Project.Origin.BLUS30251_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/EF/F.E.A.R_2/F.E.A.R.2.Project.Origin.BLUS30251_01.iso"/>
-<pieces file_size="347963392"  index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/EF/F.E.A.R_2/F.E.A.R.2.Project.Origin.BLUS30251_02.iso"/>
-</hfs_manifest>
