@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>DARK.SOULS.PREPARE.TO.DIE.EDITION.BLES01765.iso</file_name>
+<file_size>5370161152</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/02/Dark_souls_Prepare_to_die_Edition/DARK.SOULS.PREPARE.TO.DIE.EDITION.BLES01765_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/02/Dark_souls_Prepare_to_die_Edition/DARK.SOULS.PREPARE.TO.DIE.EDITION.BLES01765_01.iso"/>
+<pieces file_size="1370161152" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/02/Dark_souls_Prepare_to_die_Edition/DARK.SOULS.PREPARE.TO.DIE.EDITION.BLES01765_02.iso"/>
+</hfs_manifest>
