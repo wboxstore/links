@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>MARVEL.VS.CAPCOM.3.BLUS30410.iso</file_name>
+<file_size>3134267392</file_size>
+<number_of_split_files>2</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/MARVEL_VS._CAPCOM_3/MARVEL.VS.CAPCOM.3.BLUS30410_00.iso"/>
+<pieces file_size="1134267392" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/MARVEL_VS._CAPCOM_3/MARVEL.VS.CAPCOM.3.BLUS30410_01.iso"/>
+</hfs_manifest>

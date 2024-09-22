@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Monkey.Island.Special.Edition.Collection.BLES01413.iso</file_name>
+<file_size>2326470656</file_size>
+<number_of_split_files>2</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Monkey_Island_Special_Edition_Collection/Monkey.Island.Special.Edition.Collection.BLES01413_00.iso"/>
+<pieces file_size="326470656"  index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Monkey_Island_Special_Edition_Collection/Monkey.Island.Special.Edition.Collection.BLES01413_01.iso"/>
+</hfs_manifest>
