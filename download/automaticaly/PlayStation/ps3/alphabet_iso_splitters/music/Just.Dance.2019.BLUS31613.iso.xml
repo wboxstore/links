@@ -1,0 +1,11 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Just.Dance.2019.BLUS31613.iso</file_name>
+<file_size>9122414592</file_size>
+<number_of_split_files>5</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2019/Just.Dance.2019.BLUS31613_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2019/Just.Dance.2019.BLUS31613_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2019/Just.Dance.2019.BLUS31613_02.iso"/>
+<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2019/Just.Dance.2019.BLUS31613_03.iso"/>
+<pieces file_size="1122414592" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2019/Just.Dance.2019.BLUS31613_04.iso"/>
+</hfs_manifest>

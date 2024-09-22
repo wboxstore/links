@@ -1,0 +1,12 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Just.Dance.2017.BLES02231.iso</file_name>
+<file_size>11705952256</file_size>
+<number_of_split_files>6</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2017/Just.Dance.2017.BLES02231_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2017/Just.Dance.2017.BLES02231_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2017/Just.Dance.2017.BLES02231_02.iso"/>
+<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2017/Just.Dance.2017.BLES02231_03.iso"/>
+<pieces file_size="2000000000" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2017/Just.Dance.2017.BLES02231_04.iso"/>
+<pieces file_size="1705952256" index="5"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Just_Dance_2017/Just.Dance.2017.BLES02231_05.iso"/>
+</hfs_manifest>
