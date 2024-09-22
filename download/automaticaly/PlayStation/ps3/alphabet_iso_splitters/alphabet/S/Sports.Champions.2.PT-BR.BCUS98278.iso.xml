@@ -1,0 +1,10 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Sports.Champions.2.PT-BR.BCUS98278.iso</file_name>
+<file_size>6504079360</file_size>
+<number_of_split_files>4</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Sports_Champions_2/Sports.Champions.2.PT-BR.BCUS98278_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Sports_Champions_2/Sports.Champions.2.PT-BR.BCUS98278_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Sports_Champions_2/Sports.Champions.2.PT-BR.BCUS98278_02.iso"/>
+<pieces file_size="504079360"  index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Sports_Champions_2/Sports.Champions.2.PT-BR.BCUS98278_03.iso"/>
+</hfs_manifest>

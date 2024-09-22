@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Super.Heroine.Chronicle.BLJS10244.iso</file_name>
+<file_size>4711841792</file_size>
+<number_of_split_files>3</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/Super_Heroine_Chronicle/Super.Heroine.Chronicle.BLJS10244_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/Super_Heroine_Chronicle/Super.Heroine.Chronicle.BLJS10244_01.iso"/>
+<pieces file_size="711841792"  index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/Super_Heroine_Chronicle/Super.Heroine.Chronicle.BLJS10244_02.iso"/>
+</hfs_manifest>
