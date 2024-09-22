@@ -1,0 +1,12 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521.iso</file_name>
+<file_size>10792271872</file_size>
+<number_of_split_files>6</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tom_Clancy_s_Ghost_Recon_Future_Soldier/Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tom_Clancy_s_Ghost_Recon_Future_Soldier/Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tom_Clancy_s_Ghost_Recon_Future_Soldier/Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521_02.iso"/>
+<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tom_Clancy_s_Ghost_Recon_Future_Soldier/Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521_03.iso"/>
+<pieces file_size="2000000000" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tom_Clancy_s_Ghost_Recon_Future_Soldier/Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521_04.iso"/>
+<pieces file_size="792271872"  index="5"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Tom_Clancy_s_Ghost_Recon_Future_Soldier/Tom.Clancy_s.Ghost.Recon.Future.Soldier.BLUS30521_05.iso"/>
+</hfs_manifest>
