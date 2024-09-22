@@ -1,0 +1,10 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below. 
+<hfs_manifest>
+<file_name>BlazBlue.-.Continuum.Shift.BLUS30576.iso</file_name>
+<file_size>7730628608</file_size>
+<number_of_split_files>4</number_of_split_files>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/BlazBlue_-_Continuum_Shift/BlazBlue.-.Continuum.Shift.BLUS30576_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/BlazBlue_-_Continuum_Shift/BlazBlue.-.Continuum.Shift.BLUS30576_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/BlazBlue_-_Continuum_Shift/BlazBlue.-.Continuum.Shift.BLUS30576_02.iso"/>
+<pieces file_size="1730628608" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/BlazBlue_-_Continuum_Shift/BlazBlue.-.Continuum.Shift.BLUS30576_03.iso"/>
+</hfs_manifest>
