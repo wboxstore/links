@@ -1,8 +1,8 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below. 
 <hfs_manifest>
-<file_name>PES.2013.WINTER.TRANSFER.2024.RENOVAPATCH-P2.pkg</file_name>
+<file_name>PES.2013.WINTER.TRANSFER.2024.RENOVAPATCH-P1.pkg</file_name>
 <file_size>3128061456</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/04/Pro_Evolution_Soccer_2013.2023/PES.2013.WINTER.TRANSFER.2024.RENOVAPATCH-P2_00.pkg"/>
-<pieces file_size="1128061456" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/04/Pro_Evolution_Soccer_2013.2023/PES.2013.WINTER.TRANSFER.2024.RENOVAPATCH-P2_01.pkg"/>
+<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/04/Pro_Evolution_Soccer_2013.2023/PES.2013.WINTER.TRANSFER.2024.RENOVAPATCH-P1_00.pkg"/>
+<pieces file_size="1128061456" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/04/Pro_Evolution_Soccer_2013.2023/PES.2013.WINTER.TRANSFER.2024.RENOVAPATCH-P1_01.pkg"/>
 </hfs_manifest>
