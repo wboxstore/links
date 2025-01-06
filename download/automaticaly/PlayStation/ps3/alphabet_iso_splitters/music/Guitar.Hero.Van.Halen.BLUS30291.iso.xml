@@ -3,8 +3,8 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Guitar.Hero.Van.Halen.BLUS30291.iso</file_name>
 <file_size>6083588096</file_size>
 <number_of_split_files>4</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_02.iso"/>
-<pieces file_size="83588096"   index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/05/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_03.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_02.iso"/>
+<pieces file_size="83588096"   index="3"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Guitar_Hero_Van_Halen/Guitar.Hero.Van.Halen.BLUS30291_03.iso"/>
 </hfs_manifest>
