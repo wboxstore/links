@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Mercenaries.-.Playground.of.Destruction.pkg</file_name>
 <file_size>4728965616</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Mercenaries.-.Playground.of.Destruction_00.pkg"/>
-<pieces file_size="2000000000" index="1" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Mercenaries.-.Playground.of.Destruction_01.pkg"/>
-<pieces file_size="728965616"  index="2" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Mercenaries.-.Playground.of.Destruction_02.pkg"/>
+<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Mercenaries.-.Playground.of.Destruction_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Mercenaries.-.Playground.of.Destruction_01.pkg"/>
+<pieces file_size="728965616"  index="2" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Mercenaries.-.Playground.of.Destruction_02.pkg"/>
 </hfs_manifest>

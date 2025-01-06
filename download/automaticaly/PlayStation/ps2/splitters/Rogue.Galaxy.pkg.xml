@@ -3,9 +3,9 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Rogue.Galaxy.pkg</file_name>
 <file_size>8524264704</file_size>
 <number_of_split_files>5</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Rogue.Galaxy_00.pkg"/>
-<pieces file_size="2000000000" index="1" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Rogue.Galaxy_01.pkg"/>
-<pieces file_size="2000000000" index="2" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Rogue.Galaxy_02.pkg"/>
-<pieces file_size="2000000000" index="3" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Rogue.Galaxy_03.pkg"/>
-<pieces file_size="524264704"  index="4" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Rogue.Galaxy_04.pkg"/>
+<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Rogue.Galaxy_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Rogue.Galaxy_01.pkg"/>
+<pieces file_size="2000000000" index="2" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Rogue.Galaxy_02.pkg"/>
+<pieces file_size="2000000000" index="3" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Rogue.Galaxy_03.pkg"/>
+<pieces file_size="524264704"  index="4" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Rogue.Galaxy_04.pkg"/>
 </hfs_manifest>
