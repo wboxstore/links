@@ -3,8 +3,8 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>The.Amazing.Spider-Man.2.BLUS41044.iso</file_name>
 <file_size>6653538304</file_size>
 <number_of_split_files>4</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_02.iso"/>
-<pieces file_size="653538304"  index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_03.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_02.iso"/>
+<pieces file_size="653538304"  index="3"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/The_Amazing_Spider-Man_2/The.Amazing.Spider-Man.2.BLUS41044_03.iso"/>
 </hfs_manifest>
