@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>GTA.San.Andreas.HD.PT.BR.iso</file_name>
 <file_size>2492989440</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/02/GTA_San_Andreas_HD/GTA.San.Andreas.HD.PT.BR_00.iso"/>
-<pieces file_size="492989440"  index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/02/GTA_San_Andreas_HD/GTA.San.Andreas.HD.PT.BR_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/GTA_San_Andreas_HD/GTA.San.Andreas.HD.PT.BR_00.iso"/>
+<pieces file_size="492989440"  index="1"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/GTA_San_Andreas_HD/GTA.San.Andreas.HD.PT.BR_01.iso"/>
 </hfs_manifest>
