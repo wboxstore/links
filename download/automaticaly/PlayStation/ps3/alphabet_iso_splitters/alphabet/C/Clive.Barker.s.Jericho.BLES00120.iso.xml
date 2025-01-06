@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Clive.Barker.s.Jericho.BLES00120.iso</file_name>
 <file_size>3346573312</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/CD/Clive_Barkers_Jericho/Clive.Barker.s.Jericho.BLES00120_00.iso"/>
-<pieces file_size="1346573312" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/CD/Clive_Barkers_Jericho/Clive.Barker.s.Jericho.BLES00120_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Clive_Barkers_Jericho/Clive.Barker.s.Jericho.BLES00120_00.iso"/>
+<pieces file_size="1346573312" index="1"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Clive_Barkers_Jericho/Clive.Barker.s.Jericho.BLES00120_01.iso"/>
 </hfs_manifest>

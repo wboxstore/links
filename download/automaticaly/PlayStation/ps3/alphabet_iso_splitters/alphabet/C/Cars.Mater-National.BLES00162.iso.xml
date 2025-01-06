@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Cars.Mater-National.BLES00162.iso</file_name>
 <file_size>3480176640</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/CD/Cars_Mater-National/Cars.Mater-National.BLES00162_00.iso"/>
-<pieces file_size="1480176640" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/CD/Cars_Mater-National/Cars.Mater-National.BLES00162_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Cars_Mater-National/Cars.Mater-National.BLES00162_00.iso"/>
+<pieces file_size="1480176640" index="1"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Cars_Mater-National/Cars.Mater-National.BLES00162_01.iso"/>
 </hfs_manifest>
