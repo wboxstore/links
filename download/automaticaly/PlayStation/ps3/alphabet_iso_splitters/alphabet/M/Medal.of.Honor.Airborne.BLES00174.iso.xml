@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Medal.of.Honor.Airborne.BLES00174.iso</file_name>
 <file_size>4840278016</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Medal_of_Honor_Airborne/Medal.of.Honor.Airborne.BLES00174_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Medal_of_Honor_Airborne/Medal.of.Honor.Airborne.BLES00174_01.iso"/>
-<pieces file_size="840278016"  index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/Medal_of_Honor_Airborne/Medal.of.Honor.Airborne.BLES00174_02.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/Medal_of_Honor_Airborne/Medal.of.Honor.Airborne.BLES00174_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/Medal_of_Honor_Airborne/Medal.of.Honor.Airborne.BLES00174_01.iso"/>
+<pieces file_size="840278016"  index="2"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/Medal_of_Honor_Airborne/Medal.of.Honor.Airborne.BLES00174_02.iso"/>
 </hfs_manifest>
