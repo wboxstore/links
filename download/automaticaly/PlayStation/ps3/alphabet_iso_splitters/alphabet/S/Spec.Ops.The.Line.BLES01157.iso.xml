@@ -3,8 +3,8 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Spec.Ops.The.Line.BLES01157.iso</file_name>
 <file_size>6173491200</file_size>
 <number_of_split_files>4</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_02.iso"/>
-<pieces file_size="173491200"  index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_03.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_02.iso"/>
+<pieces file_size="173491200"  index="3"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Spec_Ops_The_Line/Spec.Ops.The.Line.BLES01157_03.iso"/>
 </hfs_manifest>

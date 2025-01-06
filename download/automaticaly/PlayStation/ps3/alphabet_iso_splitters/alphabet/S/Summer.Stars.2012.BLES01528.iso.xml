@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Summer.Stars.2012.BLES01528.iso</file_name>
 <file_size>3317850112</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Summer_Stars_2012/Summer.Stars.2012.BLES01528_00.iso"/>
-<pieces file_size="1317850112" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Summer_Stars_2012/Summer.Stars.2012.BLES01528_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Summer_Stars_2012/Summer.Stars.2012.BLES01528_00.iso"/>
+<pieces file_size="1317850112" index="1"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Summer_Stars_2012/Summer.Stars.2012.BLES01528_01.iso"/>
 </hfs_manifest>

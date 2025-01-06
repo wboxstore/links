@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Sonic.SEGA.All-Stars.Racing.BLUS30342.iso</file_name>
 <file_size>3917721600</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Sonic_and_SEGA_All-Stars_Racing/Sonic.SEGA.All-Stars.Racing.BLUS30342_00.iso"/>
-<pieces file_size="1917721600" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/ST/Sonic_and_SEGA_All-Stars_Racing/Sonic.SEGA.All-Stars.Racing.BLUS30342_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Sonic_and_SEGA_All-Stars_Racing/Sonic.SEGA.All-Stars.Racing.BLUS30342_00.iso"/>
+<pieces file_size="1917721600" index="1"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Sonic_and_SEGA_All-Stars_Racing/Sonic.SEGA.All-Stars.Racing.BLUS30342_01.iso"/>
 </hfs_manifest>
