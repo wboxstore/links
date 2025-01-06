@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Planet.51.THE.GAME.BLUS30366.iso</file_name>
 <file_size>3198535680</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/PlayStationMove_Puzzle_Collection/Planet.51.THE.GAME.BLUS30366_00.iso"/>
-<pieces file_size="1198535680" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/06/PlayStationMove_Puzzle_Collection/Planet.51.THE.GAME.BLUS30366_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/PlayStationMove_Puzzle_Collection/Planet.51.THE.GAME.BLUS30366_00.iso"/>
+<pieces file_size="1198535680" index="1"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/PlayStationMove_Puzzle_Collection/Planet.51.THE.GAME.BLUS30366_01.iso"/>
 </hfs_manifest>
