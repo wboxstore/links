@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Ace_Combat.-.Distant.Thunder.pkg</file_name>
 <file_size>3618463568</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Ace_Combat.-.Distant.Thunder_00.pkg"/>
-<pieces file_size="1618463568" index="1" url="http://premium-users.sandrostoreps3.workers.dev/ps2/auto_download/Ace_Combat.-.Distant.Thunder_01.pkg"/>
+<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Ace_Combat.-.Distant.Thunder_00.pkg"/>
+<pieces file_size="1618463568" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Ace_Combat.-.Distant.Thunder_01.pkg"/>
 </hfs_manifest>
