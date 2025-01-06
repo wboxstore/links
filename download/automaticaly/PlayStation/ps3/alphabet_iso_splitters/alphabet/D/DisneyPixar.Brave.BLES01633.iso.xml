@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>DisneyPixar.Brave.BLES01633.iso</file_name>
 <file_size>3083788288</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/CD/Disney_Pixar_Brave/DisneyPixar.Brave.BLES01633_00.iso"/>
-<pieces file_size="1083788288" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/CD/Disney_Pixar_Brave/DisneyPixar.Brave.BLES01633_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Pixar_Brave/DisneyPixar.Brave.BLES01633_00.iso"/>
+<pieces file_size="1083788288" index="1"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Pixar_Brave/DisneyPixar.Brave.BLES01633_01.iso"/>
 </hfs_manifest>
