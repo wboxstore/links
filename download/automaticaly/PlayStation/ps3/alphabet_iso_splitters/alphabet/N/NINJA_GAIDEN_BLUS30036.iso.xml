@@ -3,11 +3,11 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>NINJA_GAIDEN_BLUS30036.ISO</file_name>
 <file_size>12308709376</file_size>
 <number_of_split_files>7</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_00.ISO"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_01.ISO"/>
-<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_02.ISO"/>
-<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_03.ISO"/>
-<pieces file_size="2000000000" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_04.ISO"/>
-<pieces file_size="2000000000" index="5"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_05.ISO"/>
-<pieces file_size="308709376"  index="6"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/MN/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_06.ISO"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_00.ISO"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_01.ISO"/>
+<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_02.ISO"/>
+<pieces file_size="2000000000" index="3"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_03.ISO"/>
+<pieces file_size="2000000000" index="4"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_04.ISO"/>
+<pieces file_size="2000000000" index="5"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_05.ISO"/>
+<pieces file_size="308709376"  index="6"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN/NINJA_GAIDEN_BLUS30036_06.ISO"/>
 </hfs_manifest>
