@@ -3,10 +3,10 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Battlefield.3.BLUS30762.iso</file_name>
 <file_size>11364139008</file_size>
 <number_of_split_files>6</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/Battlefield_3/Battlefield.3.BLUS30762_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/Battlefield_3/Battlefield.3.BLUS30762_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/Battlefield_3/Battlefield.3.BLUS30762_02.iso"/>
-<pieces file_size="2000000000" index="3"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/Battlefield_3/Battlefield.3.BLUS30762_03.iso"/>
-<pieces file_size="2000000000" index="4"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/Battlefield_3/Battlefield.3.BLUS30762_04.iso"/>
-<pieces file_size="1364139008" index="5"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/Battlefield_3/Battlefield.3.BLUS30762_05.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/Battlefield_3/Battlefield.3.BLUS30762_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/Battlefield_3/Battlefield.3.BLUS30762_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/Battlefield_3/Battlefield.3.BLUS30762_02.iso"/>
+<pieces file_size="2000000000" index="3"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/Battlefield_3/Battlefield.3.BLUS30762_03.iso"/>
+<pieces file_size="2000000000" index="4"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/Battlefield_3/Battlefield.3.BLUS30762_04.iso"/>
+<pieces file_size="1364139008" index="5"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/Battlefield_3/Battlefield.3.BLUS30762_05.iso"/>
 </hfs_manifest>

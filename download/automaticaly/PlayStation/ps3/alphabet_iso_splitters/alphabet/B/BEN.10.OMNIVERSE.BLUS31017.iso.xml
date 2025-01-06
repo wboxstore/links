@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>BEN.10.OMNIVERSE.BLUS31017.iso</file_name>
 <file_size>3270424576</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/BEN_10_OMNIVERSE/BEN.10.OMNIVERSE.BLUS31017_00.iso"/>
-<pieces file_size="1270424576" index="1"  url="http://premium-users.sandrostoreps3.workers.dev/game_download_ps3/AB/BEN_10_OMNIVERSE/BEN.10.OMNIVERSE.BLUS31017_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/BEN_10_OMNIVERSE/BEN.10.OMNIVERSE.BLUS31017_00.iso"/>
+<pieces file_size="1270424576" index="1"  url="http://github.com/freestoredrive/hostps3-iso-ab/releases/download/BEN_10_OMNIVERSE/BEN.10.OMNIVERSE.BLUS31017_01.iso"/>
 </hfs_manifest>
