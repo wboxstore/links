@@ -1,8 +1,8 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below. 
 <hfs_manifest>
 <file_name>Beyond.Two.Souls.BCUS99134.iso</file_name>
-<file_size>29660282880</file_size>
-<number_of_split_files>15</number_of_split_files>
+<file_size>33914093568</file_size>
+<number_of_split_files>17</number_of_split_files>
 <pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_00.iso"/>
 <pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_01.iso"/>
 <pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_02.iso"/>
@@ -17,5 +17,7 @@ This XML file does not appear to have any style information associated with it. 
 <pieces file_size="2000000000" index="11" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_11.iso"/>
 <pieces file_size="2000000000" index="12" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_12.iso"/>
 <pieces file_size="2000000000" index="13" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_13.iso"/>
-<pieces file_size="1660282880" index="14" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_14.iso"/>
+<pieces file_size="2000000000" index="14" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_14.iso"/>
+<pieces file_size="2000000000" index="15" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_15.iso"/>
+<pieces file_size="1914093568" index="16" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/Beyound_two_souls/Beyond.Two.Souls.BCUS99134_16.iso"/>
 </hfs_manifest>
