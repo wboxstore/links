@@ -1,7 +1,7 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below. 
 <hfs_manifest>
 <file_name>BioShock.BLUS30166.iso</file_name>
-<file_size>12322527232</file_size>
+<file_size>12538189824</file_size>
 <number_of_split_files>7</number_of_split_files>
 <pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_00.iso"/>
 <pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_01.iso"/>
@@ -9,5 +9,5 @@ This XML file does not appear to have any style information associated with it. 
 <pieces file_size="2000000000" index="3"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_03.iso"/>
 <pieces file_size="2000000000" index="4"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_04.iso"/>
 <pieces file_size="2000000000" index="5"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_05.iso"/>
-<pieces file_size="322527232"  index="6"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_06.iso"/>
+<pieces file_size="538189824"  index="6"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Bioshock/BioShock.BLUS30166_06.iso"/>
 </hfs_manifest>
