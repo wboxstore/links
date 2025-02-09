@@ -1,10 +1,10 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below. 
 <hfs_manifest>
 <file_name>Shadows.of.the.Damned.BLUS30653.iso</file_name>
-<file_size>6378672128</file_size>
+<file_size>6378633216</file_size>
 <number_of_split_files>4</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Shadows_of_the_Damned/Shadows.of.the.Damned.BLUS30653_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Shadows_of_the_Damned/Shadows.of.the.Damned.BLUS30653_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Shadows_of_the_Damned/Shadows.of.the.Damned.BLUS30653_02.iso"/>
-<pieces file_size="378672128"  index="3"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/Shadows_of_the_Damned/Shadows.of.the.Damned.BLUS30653_03.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Shadows.of.the.Damned/Shadows.of.the.Damned.BLUS30653_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Shadows.of.the.Damned/Shadows.of.the.Damned.BLUS30653_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Shadows.of.the.Damned/Shadows.of.the.Damned.BLUS30653_02.iso"/>
+<pieces file_size="378633216"  index="3"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Shadows.of.the.Damned/Shadows.of.the.Damned.BLUS30653_03.iso"/>
 </hfs_manifest>
