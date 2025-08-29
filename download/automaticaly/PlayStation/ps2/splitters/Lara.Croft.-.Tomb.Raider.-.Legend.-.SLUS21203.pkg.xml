@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Tomb.Raider.-.Legend.-.SLUS21203.pkg</file_name>
 <file_size>3045394384</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Tomb.Raider.-.Legend.-.SLUS21203_00.pkg"/>
-<pieces file_size="1045394384" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Tomb.Raider.-.Legend.-.SLUS21203_01.pkg"/>
+<pieces file_size="2000000000" index="0" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Tomb.Raider.-.Legend.-.SLUS21203_00.pkg"/>
+<pieces file_size="1045394384" index="1" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Tomb.Raider.-.Legend.-.SLUS21203_01.pkg"/>
 </hfs_manifest>

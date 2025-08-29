@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Need.for.Speed.-.Underground.2.pkg</file_name>
 <file_size>2902389760</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Need.for.Speed.-.Underground.2_00.pkg"/>
-<pieces file_size="902389760"  index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Need.for.Speed.-.Underground.2_01.pkg"/>
+<pieces file_size="2000000000" index="0" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Need.for.Speed.-.Underground.2_00.pkg"/>
+<pieces file_size="902389760"  index="1" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Need.for.Speed.-.Underground.2_01.pkg"/>
 </hfs_manifest>
