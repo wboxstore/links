@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Port.Royale.3.Gold.BLES01868.iso</file_name>
 <file_size>4394573824</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Port_Royale_3_Gold/Port.Royale.3.Gold.BLES01868_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Port_Royale_3_Gold/Port.Royale.3.Gold.BLES01868_01.iso"/>
-<pieces file_size="394573824"  index="2"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Port_Royale_3_Gold/Port.Royale.3.Gold.BLES01868_02.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Port_Royale_3_Gold/Port.Royale.3.Gold.BLES01868_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Port_Royale_3_Gold/Port.Royale.3.Gold.BLES01868_01.iso"/>
+<pieces file_size="394573824"  index="2"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Port_Royale_3_Gold/Port.Royale.3.Gold.BLES01868_02.iso"/>
 </hfs_manifest>
