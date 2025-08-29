@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>The.Lord.of.the.Rings.-.The.Return.of.the.King.pkg</file_name>
 <file_size>4371718320</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/The.Lord.of.the.Rings.-.The.Return.of.the.King_00.pkg"/>
-<pieces file_size="2000000000" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/The.Lord.of.the.Rings.-.The.Return.of.the.King_01.pkg"/>
-<pieces file_size="371718320"  index="2" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/The.Lord.of.the.Rings.-.The.Return.of.the.King_02.pkg"/>
+<pieces file_size="2000000000" index="0" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/The.Lord.of.the.Rings.-.The.Return.of.the.King_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/The.Lord.of.the.Rings.-.The.Return.of.the.King_01.pkg"/>
+<pieces file_size="371718320"  index="2" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/The.Lord.of.the.Rings.-.The.Return.of.the.King_02.pkg"/>
 </hfs_manifest>
