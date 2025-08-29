@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Rock.Band.3.BLUS30463.iso</file_name>
 <file_size>5611999232</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Rock_Band_3/Rock.Band.3.BLUS30463_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Rock_Band_3/Rock.Band.3.BLUS30463_01.iso"/>
-<pieces file_size="1611999232" index="2"  url="http://github.com/freestoredrive/hostps3-musica/releases/download/Rock_Band_3/Rock.Band.3.BLUS30463_02.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-musica/releases/download/Rock_Band_3/Rock.Band.3.BLUS30463_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="https://github.com/freestoredrive/hostps3-musica/releases/download/Rock_Band_3/Rock.Band.3.BLUS30463_01.iso"/>
+<pieces file_size="1611999232" index="2"  url="https://github.com/freestoredrive/hostps3-musica/releases/download/Rock_Band_3/Rock.Band.3.BLUS30463_02.iso"/>
 </hfs_manifest>
