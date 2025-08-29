@@ -3,12 +3,12 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>God.of.War.III.BCES00510.iso</file_name>
 <file_size>43114690560</file_size>
 <number_of_split_files>22</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_02.iso"/>
-<pieces file_size="2000000000" index="3"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_03.iso"/>
-<pieces file_size="2000000000" index="4"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_04.iso"/>
-<pieces file_size="2000000000" index="5"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_05.iso"/>
+<pieces file_size="2000000000" index="0"  url="http://release-assets.githubusercontent.com/github-production-release-asset/667639044/98343450-729b-4eb2-9183-385868730e0b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-29T19%3A04%3A27Z&rscd=attachment%3B+filename%3DGod.of.War.III.BCES00510_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="http://release-assets.githubusercontent.com/github-production-release-asset/667639044/6215d669-5b09-4e45-8190-e10f27aefcdd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-29T19%3A03%3A06Z&rscd=attachment%3B+filename%3DGod.of.War.III.BCES00510_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="http://release-assets.githubusercontent.com/github-production-release-asset/667639044/a9771f0a-18e1-46e3-b474-c07bcd2bc8ce?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-29T19%3A02%3A49Z&rscd=attachment%3B+filename%3DGod.of.War.III.BCES00510_02.iso"/>
+<pieces file_size="2000000000" index="3"  url="http://release-assets.githubusercontent.com/github-production-release-asset/667639044/76e96841-30ee-4d76-9f3d-dd16ee8224dd?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-29T19%3A04%3A43Z&rscd=attachment%3B+filename%3DGod.of.War.III.BCES00510_03.iso"/>
+<pieces file_size="2000000000" index="4"  url="http://release-assets.githubusercontent.com/github-production-release-asset/667639044/e7a3a810-df04-4ca2-a3ba-2d096cdf2578?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-29T19%3A02%3A56Z&rscd=attachment%3B+filename%3DGod.of.War.III.BCES00510_04.iso"/>
+<pieces file_size="2000000000" index="5"  url="http://release-assets.githubusercontent.com/github-production-release-asset/667639044/2264306d-0fb9-41b1-a595-1e67a648677f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-08-29T19%3A03%3A54Z&rscd=attachment%3B+filename%3DGod.of.War.III.BCES00510_05.iso"/>
 <pieces file_size="2000000000" index="6"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_06.iso"/>
 <pieces file_size="2000000000" index="7"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_07.iso"/>
 <pieces file_size="2000000000" index="8"  url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_08.iso"/>
@@ -26,3 +26,4 @@ This XML file does not appear to have any style information associated with it. 
 <pieces file_size="2000000000" index="20" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_20.iso"/>
 <pieces file_size="1114690560" index="21" url="http://github.com/freestoredrive/hostps3-dublados/releases/download/God_of_War_3/God.of.War.III.BCES00510_21.iso"/>
 </hfs_manifest>
+
