@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>SEGA.Rally.Revo.BLUS30068.iso</file_name>
 <file_size>3607752704</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/SEGA_Rally_Revo/SEGA.Rally.Revo.BLUS30068_00.iso"/>
-<pieces file_size="1607752704" index="1"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/SEGA_Rally_Revo/SEGA.Rally.Revo.BLUS30068_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/SEGA_Rally_Revo/SEGA.Rally.Revo.BLUS30068_00.iso"/>
+<pieces file_size="1607752704" index="1"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/SEGA_Rally_Revo/SEGA.Rally.Revo.BLUS30068_01.iso"/>
 </hfs_manifest>

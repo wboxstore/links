@@ -3,8 +3,8 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Singularity.BLUS30296.iso</file_name>
 <file_size>6354526208</file_size>
 <number_of_split_files>4</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_01.iso"/>
-<pieces file_size="2000000000" index="2"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_02.iso"/>
-<pieces file_size="354526208"  index="3"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_03.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_01.iso"/>
+<pieces file_size="2000000000" index="2"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_02.iso"/>
+<pieces file_size="354526208"  index="3"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Singularity/Singularity.BLUS30296_03.iso"/>
 </hfs_manifest>

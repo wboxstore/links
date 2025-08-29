@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>SEGA.Superstars.Tennis.BLES00232.iso</file_name>
 <file_size>3054149632</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/SEGA_Superstars_Tennis/SEGA.Superstars.Tennis.BLES00232_00.iso"/>
-<pieces file_size="1054149632" index="1"  url="http://github.com/freestoredrive/hostps3-iso-st/releases/download/SEGA_Superstars_Tennis/SEGA.Superstars.Tennis.BLES00232_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-st/releases/download/SEGA_Superstars_Tennis/SEGA.Superstars.Tennis.BLES00232_00.iso"/>
+<pieces file_size="1054149632" index="1"  url="https://github.com/freestoredrive/hostps3-iso-st/releases/download/SEGA_Superstars_Tennis/SEGA.Superstars.Tennis.BLES00232_01.iso"/>
 </hfs_manifest>
