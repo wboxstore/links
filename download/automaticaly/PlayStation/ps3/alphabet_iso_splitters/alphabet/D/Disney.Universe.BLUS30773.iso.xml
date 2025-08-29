@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Disney.Universe.BLUS30773.iso</file_name>
 <file_size>5694234624</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Universe/Disney.Universe.BLUS30773_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Universe/Disney.Universe.BLUS30773_01.iso"/>
-<pieces file_size="1694234624" index="2"  url="http://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Universe/Disney.Universe.BLUS30773_02.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Universe/Disney.Universe.BLUS30773_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="https://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Universe/Disney.Universe.BLUS30773_01.iso"/>
+<pieces file_size="1694234624" index="2"  url="https://github.com/freestoredrive/hostps3-iso-cd/releases/download/Disney_Universe/Disney.Universe.BLUS30773_02.iso"/>
 </hfs_manifest>
