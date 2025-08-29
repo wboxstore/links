@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>NINJA_GAIDEN_3_.BLES01524.iso</file_name>
 <file_size>3162159104</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN_3/NINJA_GAIDEN_3_.BLES01524_00.iso"/>
-<pieces file_size="1162159104" index="1"  url="http://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN_3/NINJA_GAIDEN_3_.BLES01524_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN_3/NINJA_GAIDEN_3_.BLES01524_00.iso"/>
+<pieces file_size="1162159104" index="1"  url="https://github.com/freestoredrive/hostps3-iso-mn/releases/download/NINJA_GAIDEN_3/NINJA_GAIDEN_3_.BLES01524_01.iso"/>
 </hfs_manifest>
