@@ -3,9 +3,9 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Kessen.3.pkg</file_name>
 <file_size>8548217120</file_size>
 <number_of_split_files>5</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_00.pkg"/>
-<pieces file_size="2000000000" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_01.pkg"/>
-<pieces file_size="2000000000"  index="2" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_02.pkg"/>
-<pieces file_size="2000000000"  index="3" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_03.pkg"/>
-<pieces file_size="548217120"  index="4" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_04.pkg"/>
+<pieces file_size="2000000000" index="0" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_01.pkg"/>
+<pieces file_size="2000000000"  index="2" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_02.pkg"/>
+<pieces file_size="2000000000"  index="3" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_03.pkg"/>
+<pieces file_size="548217120"  index="4" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Kessen.3_04.pkg"/>
 </hfs_manifest>

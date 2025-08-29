@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Final.Fantasy.XII.International.-.Zodiac.Job.System.pkg</file_name>
 <file_size>4211363120</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Final.Fantasy.XII.International.-.Zodiac.Job.System_00.pkg"/>
-<pieces file_size="2000000000" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Final.Fantasy.XII.International.-.Zodiac.Job.System_01.pkg"/>
-<pieces file_size="211363120"  index="2" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Final.Fantasy.XII.International.-.Zodiac.Job.System_02.pkg"/>
+<pieces file_size="2000000000" index="0" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Final.Fantasy.XII.International.-.Zodiac.Job.System_00.pkg"/>
+<pieces file_size="2000000000" index="1" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Final.Fantasy.XII.International.-.Zodiac.Job.System_01.pkg"/>
+<pieces file_size="211363120"  index="2" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Final.Fantasy.XII.International.-.Zodiac.Job.System_02.pkg"/>
 </hfs_manifest>
