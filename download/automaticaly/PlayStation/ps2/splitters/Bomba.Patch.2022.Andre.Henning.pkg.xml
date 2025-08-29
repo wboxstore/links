@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Bomba.Patch.2022.Andre.Henning.pkg</file_name>
 <file_size>2348662576</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Bomba.Patch.2022.Andre.Henning_00.pkg"/>
-<pieces file_size="348662576" index="1" url="http://github.com/freestoredrive/hostps2/releases/download/auto_download/Bomba.Patch.2022.Andre.Henning_01.pkg"/>
+<pieces file_size="2000000000" index="0" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Bomba.Patch.2022.Andre.Henning_00.pkg"/>
+<pieces file_size="348662576" index="1" url="https://github.com/freestoredrive/hostps2/releases/download/auto_download/Bomba.Patch.2022.Andre.Henning_01.pkg"/>
 </hfs_manifest>
