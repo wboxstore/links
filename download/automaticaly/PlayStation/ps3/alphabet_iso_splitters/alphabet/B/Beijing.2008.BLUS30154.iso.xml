@@ -3,7 +3,7 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Beijing.2008.BLUS30154.iso</file_name>
 <file_size>5235392512</file_size>
 <number_of_split_files>3</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Beijing_2008/Beijing.2008.BLUS30154_00.iso"/>
-<pieces file_size="2000000000" index="1"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Beijing_2008/Beijing.2008.BLUS30154_01.iso"/>
-<pieces file_size="1235392512" index="2"  url="http://github.com/freestoredrive/hostps3-iso-new/releases/download/Beijing_2008/Beijing.2008.BLUS30154_02.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Beijing_2008/Beijing.2008.BLUS30154_00.iso"/>
+<pieces file_size="2000000000" index="1"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Beijing_2008/Beijing.2008.BLUS30154_01.iso"/>
+<pieces file_size="1235392512" index="2"  url="https://github.com/freestoredrive/hostps3-iso-new/releases/download/Beijing_2008/Beijing.2008.BLUS30154_02.iso"/>
 </hfs_manifest>

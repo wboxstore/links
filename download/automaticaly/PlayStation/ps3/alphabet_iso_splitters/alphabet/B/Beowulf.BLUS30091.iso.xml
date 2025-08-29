@@ -3,6 +3,6 @@ This XML file does not appear to have any style information associated with it. 
 <file_name>Beowulf.BLUS30091.iso</file_name>
 <file_size>3811405824</file_size>
 <number_of_split_files>2</number_of_split_files>
-<pieces file_size="2000000000" index="0"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Beowulf_The_Game/Beowulf.BLUS30091_00.iso"/>
-<pieces file_size="1811405824" index="1"  url="http://github.com/freestoredrive/hostps3-legendados/releases/download/Beowulf_The_Game/Beowulf.BLUS30091_01.iso"/>
+<pieces file_size="2000000000" index="0"  url="https://github.com/freestoredrive/hostps3-legendados/releases/download/Beowulf_The_Game/Beowulf.BLUS30091_00.iso"/>
+<pieces file_size="1811405824" index="1"  url="https://github.com/freestoredrive/hostps3-legendados/releases/download/Beowulf_The_Game/Beowulf.BLUS30091_01.iso"/>
 </hfs_manifest>
